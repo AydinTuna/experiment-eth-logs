@@ -1,0 +1,24 @@
+{
+  "name": "experiment-eth-logs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AydinTuna/experiment-eth-logs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AydinTuna/experiment-eth-logs/issues"
+  },
+  "homepage": "https://github.com/AydinTuna/experiment-eth-logs#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^6.8.1"
+  }
+}
