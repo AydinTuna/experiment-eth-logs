@@ -1,5 +1,5 @@
 import "dotenv/config";
-import { ethers, hashMessage } from "ethers";
+import { ethers } from "ethers";
 
 const url = `https://mainnet.infura.io/v3/${process.env.INFURA_API_KEY}`;
 const provider = new ethers.JsonRpcProvider(url);
